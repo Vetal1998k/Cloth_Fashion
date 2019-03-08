@@ -1,0 +1,61 @@
+.content-text {
+    margin-left: 100px;
+}
+
+.content-text .display-4 {
+    font-size: 2.5rem !important;
+}
+
+.header-btn {
+    width: 35%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    border: 3px solid #000;
+    transition: 0.3s ease-in-out;
+}
+
+.cloth-list {
+    padding: 0.3rem 0 !important;
+}
+
+.produtos {
+    width: 10rem;
+}
+
+.separator {
+    font-size: 20px;
+}
+
+.separator div {
+    margin: 30px 10px;
+}
+
+.cloth-table {
+    padding: 0.3rem 0 !important;
+}
+
+.item-name .col .display-4 {
+    font-size: 2.5rem !important;
+}
+
+.insta {
+    width: 11rem;
+}
+
+.quem {
+    width: 14rem;
+}
+
+.news-letter {
+    padding: 0.3rem 0 !important;
+}
+
+footer {
+    padding: 0.3rem 0 !important;
+}

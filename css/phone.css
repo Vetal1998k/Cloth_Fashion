@@ -1,0 +1,80 @@
+.content-text {
+    margin-left: 20px;
+}
+
+.content-text .display-4 {
+    font-size: 1rem !important;
+}
+
+.header-btn {
+    width: 50%;
+    margin-top: 20px;
+    font-size: 9px;
+}
+
+.phone {
+    display: flex !important;
+    background-color: #000;
+    color: #fff;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 6px;
+}
+
+.nophone {
+    display: none !important;
+}
+
+.header-menu {
+    font-size: 10px;
+}
+
+.cloth-table .row {
+    display: flex;
+    flex-direction: column !important;
+    padding: 0 !important;
+}
+
+.cloth-table .row div {
+    max-width: 100%;
+    margin: 5px 0 !important;
+}
+
+.insta {
+    width: 20rem;
+}
+
+.news-letter {
+    flex-direction: column;
+}
+
+.letter-block {
+    text-align: center;
+    font-size: 20px;
+}
+
+.letter-block .col{
+    padding-right: 0 !important;
+}
+
+.letter-block::after {
+    display: none;
+}
+
+.letter-block::before {
+    display: none;
+}
+
+.input-block {
+    margin: 5px 0;
+}
+
+.btn-send {
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+footer {
+    display: none !important;
+}

@@ -1,0 +1,47 @@
+.nophone {
+    display: block;
+}
+
+.phone {
+    display: none;
+}
+
+.insta {
+    width: 7.8rem;
+}
+
+.quem {
+    width: 10.2rem;
+}
+
+::-webkit-input-placeholder {
+    font-weight: 350;
+    font-size: 14px;
+}
+
+::-moz-placeholder {
+    font-weight: 350;
+    font-size: 14px;
+}
+
+:-ms-input-placeholder {
+    font-weight: 350;
+    font-size: 14px;
+}
+
+:-moz-placeholder {
+    font-weight: 350;
+    font-size: 14px;
+}
+
+.nav-item a {
+    font-size: 14px;
+}
+
+.btn-send {
+    font-size: 14px;
+}
+
+.letter-block {
+    font-size: 14px;
+}
